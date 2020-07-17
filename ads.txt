@@ -1053,3 +1053,32 @@ yieldmo.com, 46492981, RESELLER
 yldbt.com, 34048894, RESELLER
 yldbt.com, hlzp9x3qs6z1l0jjgyp6, RESELLER
 yume.com, 62969329, RESELLER
+pubmatic.com, 157743, DIRECT, 5d62403b186f2ace
+spotxchange.com, 249286, DIRECT, 7842df1d2fe2db34
+spotx.tv, 249286, DIRECT, 7842df1d2fe2db34
+33across.com, 0010b00002MptHCAAZ, DIRECT, bbea06d9c4d2853c
+indexexchange.com, 191730, DIRECT
+improvedigital.com, 1680, RESELLER
+smartadserver.com, 3050, DIRECT
+contextweb.com, 560288, DIRECT, 89ff185a4c4e857c
+openx.com, 537149888, DIRECT, 6a698e2ec38604c6
+districtm.io, 101760, DIRECT, 3fd707be9c4527c3
+appnexus.com, 4009, DIRECT
+adform.com, 1942, DIRECT
+aerserv.com, 2750, DIRECT, 2ce496b9f80eb9fa
+aolcloud.net, 4687, DIRECT
+mobfox.com, 74240, DIRECT
+openx.com, 539625136, DIRECT
+smaato.com, 1100037086, DIRECT
+tremorhub.com, s2t3y-r3ofd, DIRECT, 1a4e959a1b50034a
+smartadserver.com, 2938, DIRECT
+seedtag.com, 6382-4995-01, DIRECT
+seedtag.com, 1574-0830-01, DIRECT
+seedtag.com, 8639-1747-01, DIRECT
+seedtag.com, 2208-9110-01, DIRECT
+seedtag.com, 2479-2707-01, DIRECT
+seedtag.com, 7884-4803-01, DIRECT
+seedtag.com, 8535-6534-01, DIRECT
+seedtag.com, 5082-2217-01, DIRECT
+seedtag.com, 4335-0173-01, DIRECT
+seedtag.com, 0490-4231-01, DIRECT
